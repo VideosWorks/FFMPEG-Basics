@@ -6,4 +6,6 @@ Consult following material:
 
 Forked copy of the above first link: https://github.com/VideosWorks/regenttsui.github.io
 
-Also check out: https://github.com/VideosWorks/ffplay-refactor
+Also check out these: 
+* https://github.com/VideosWorks/ffplay-refactor
+* https://stackoverflow.com/a/14560622/4435650
