@@ -5,3 +5,5 @@ Consult following material:
 * http://dranger.com/ffmpeg/ffmpegtutorial_all.html#tutorial01.html
 
 Forked copy of the above first link: https://github.com/VideosWorks/regenttsui.github.io
+
+Also check out: https://github.com/VideosWorks/ffplay-refactor
